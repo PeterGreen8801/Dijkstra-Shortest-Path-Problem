@@ -1,1 +1,1 @@
-# Dijkstra-Shortest-Path-Problem
+# Dijkstra Shortest Path Problem
